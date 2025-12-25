@@ -20,6 +20,7 @@ Batch Processing: Easily extract parsing results from entire folders with a sing
 📸 Demo Results
 
 Input Image,Parsing Result (Color Map)
+
 ![messageImage_1765885237362_0](https://github.com/user-attachments/assets/9de3775f-e176-48f9-9b88-ce0140707bf8)
 ![messageImage_1765885232731_0](https://github.com/user-attachments/assets/1718ebf2-d01d-4428-ae85-f6af9101b775)
 
